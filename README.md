@@ -91,9 +91,10 @@ Set up ICP Blockchain integration in the backend.
 Add asset paths (e.g., images) as needed.
 
 ##Folder Structure
+```
 
 tal3a/
-├── assets/
+├── src/
 │   └── images/
 │       ├── OnboardingPage/
 │       └── HomePage/
@@ -110,6 +111,7 @@ tal3a/
 ├── README.md
 └── tailwind.config.js
 
+```
 ## Contributing
 Contributions are welcome! Fork the repo and submit a pull request.
 
