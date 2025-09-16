@@ -1,0 +1,200 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "يوم الرياضة المصري",
+      "location": "مدينة نصر، القاهرة",
+      "type": "كرة القدم",
+      "going": 12,
+      "maybes": 3,
+      "status": "غير متاح",
+      "image": "https://via.placeholder.com/220x280.png?text=Event+1"
+    },
+    {
+      "id": "2",
+      "title": "التدريب الأسبوعي",
+      "location": "حلوان، القاهرة",
+      "type": "كرة القدم",
+      "going": 12,
+      "maybes": 5,
+      "status": "متاح",
+      "image": "https://via.placeholder.com/220x280.png?text=Event+2"
+    },
+    {
+      "id": "3",
+      "title": "بطولة محلية",
+      "location": "الجيزة، مصر",
+      "type": "كرة القدم",
+      "going": 8,
+      "maybes": 2,
+      "status": "متاح",
+      "image": "https://via.placeholder.com/220x280.png?text=Event+3"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "title": "راكبو الدراجات",
+      "location": "الجيزة، مصر",
+      "type": "الدراجات",
+      "image": "https://via.placeholder.com/180x200.png?text=Group+1"
+    },
+    {
+      "id": "2",
+      "title": "لاعبو الكرة الطائرة في القاهرة",
+      "location": "القاهرة، مصر",
+      "type": "كرة الطائرة",
+      "image": "https://via.placeholder.com/180x200.png?text=Group+2"
+    },
+    {
+      "id": "3",
+      "title": "نادي الأهرامات",
+      "location": "حلوان، مصر",
+      "type": "كرة القدم",
+      "image": "https://via.placeholder.com/180x200.png?text=Group+3"
+    },
+    {
+      "id": "4",
+      "title": "نادي التنس القاهرة",
+      "location": "القاهرة، مصر",
+      "type": "التنس",
+      "image": "https://via.placeholder.com/180x200.png?text=Group+4"
+    }
+  ],
+  "rewards": [
+    {
+      "id": "1",
+      "title": "خصم 20% على التدريب",
+      "points": 100
+    },
+    {
+      "id": "2",
+      "title": "خصم 20% على الفوز",
+      "points": 200
+    },
+    {
+      "id": "3",
+      "title": "خصم 80% على السباق",
+      "points": 250
+    }
+  ],
+  "discover": {
+    "featuredEvents": [
+      {
+        "id": "1",
+        "title": "يوم الرياضة المصري",
+        "date": "الخميس، 11 سبتمبر 2025 | 8:10 مساءً",
+        "location": "مدينة نصر، القاهرة",
+        "price": "50 جنيه مصري",
+        "image": "https://via.placeholder.com/220x280.png?text=Event+1"
+      },
+      {
+        "id": "2",
+        "title": "التدريب الأسبوعي",
+        "date": "الخميس، 11 سبتمبر 2025 | 8:10 مساءً",
+        "location": "حلوان، القاهرة",
+        "price": "200 جنيه مصري",
+        "image": "https://via.placeholder.com/220x280.png?text=Event+2"
+      },
+      {
+        "id": "3",
+        "title": "بطولة محلية",
+        "date": "الخميس، 11 سبتمبر 2025 | 8:10 مساءً",
+        "location": "الجيزة، مصر",
+        "price": "100 جنيه مصري",
+        "image": "https://via.placeholder.com/220x280.png?text=Event+3"
+      }
+    ],
+    "trendingGroups": [
+      {
+        "id": "1",
+        "title": "راكبو الدراجات",
+        "members": "1240 عضو",
+        "image": "https://via.placeholder.com/180x200.png?text=Group+1"
+      },
+      {
+        "id": "2",
+        "title": "لاعبو الكرة الطائرة في القاهرة",
+        "members": "890 عضوًا",
+        "image": "https://via.placeholder.com/180x200.png?text=Group+2"
+      },
+      {
+        "id": "3",
+        "title": "نادي الأهرامات",
+        "members": "2100 عضو",
+        "image": "https://via.placeholder.com/180x200.png?text=Group+3"
+      }
+    ]
+  },
+  "profile": [
+    {
+      "id": "1",
+      "name": "اسم المستخدم",
+      "points": "800",
+      "email": "user@example.com",
+      "upcomingEvents": [
+        {
+          "id": "2",
+          "title": "التدريب الأسبوعي",
+          "date": "30 يناير 2025",
+          "time": "9:00 صباحاً",
+          "location": "حلوان، القاهرة",
+          "status": "متاح",
+          "statusColor": "#6B7280",
+          "image": "https://via.placeholder.com/220x280.png?text=Event+2"
+        },
+        {
+          "id": "3",
+          "title": "بطولة محلية",
+          "date": "15 فبراير 2025",
+          "time": "2:00 مساءً",
+          "location": "الجيزة، مصر",
+          "status": "متاح",
+          "statusColor": "#00BFA5",
+          "image": "https://via.placeholder.com/220x280.png?text=Event+3"
+        }
+      ],
+      "pastEvents": [
+        {
+          "id": "1",
+          "title": "يوم الرياضة المصري",
+          "date": "15 ديسمبر 2024",
+          "time": "6:00 مساءً",
+          "location": "مدينة نصر، القاهرة",
+          "status": "منتهي",
+          "statusColor": "#EF4444",
+          "image": "https://via.placeholder.com/220x280.png?text=Event+1"
+        }
+      ],
+      "hostedEvents": [
+        {
+          "id": "4",
+          "title": "بطولة تنس محلية",
+          "date": "20 مارس 2025",
+          "time": "10:00 صباحاً",
+          "location": "القاهرة، مصر",
+          "status": "مستضاف",
+          "statusColor": "#8B5CF6",
+          "image": "https://via.placeholder.com/220x280.png?text=Event+4"
+        }
+      ],
+      "achievements": [
+        {
+          "id": "1",
+          "title": "مشاركة في 5 أحداث",
+          "unlocked": true
+        },
+        {
+          "id": "2",
+          "title": "الفوز في حدث",
+          "unlocked": false
+        },
+        {
+          "id": "3",
+          "title": "استضافة حدث",
+          "unlocked": true
+        }
+      ]
+    }
+  ]
+}
