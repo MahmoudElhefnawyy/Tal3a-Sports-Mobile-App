@@ -20,33 +20,50 @@ Location Discovery: Find nearby events and venues.
 
 ## Installation
 
-Clone the repository:
-ذذ
+- Clone the repository:
+```
+
 git clone https://github.com/MahmoudElhefnawyy/Tal3a-Sports-Mobile-App
+
+```
 
 
 Navigate to the project directory:
+```
 
 cd tal3a
 
+```
+
 
 Install dependencies:
+```
+
 
 npm install
 
+```
+
 or
+```
 
 yarn install
 
+```
+
 
 Start the development server:
+```
 
 npm start
 
+```
 or
+```
 
 yarn start
 
+```
 
 
 ## Usage
